@@ -1,0 +1,10 @@
+| Tool               | Description                                                                               | Link                                                                             | Rating |
+| ------------------ | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ |
+| **Postman**        | Collaborative platform for building, testing, and documenting APIs with automated testing | [website](https://www.postman.com)                                               | ⭐⭐⭐⭐⭐  |
+| **Insomnia**       | Open-source API client with GraphQL support, environment management, and plugin ecosystem | [website](https://insomnia.rest)                                                 | ⭐⭐⭐⭐⭐  |
+| **HTTPie**         | User-friendly command-line HTTP client with intuitive syntax and JSON-first design        | [website](https://httpie.io)                                                     | ⭐⭐⭐⭐⭐  |
+| **Hoppscotch**     | Lightweight web-based API development ecosystem with real-time collaboration              | [website](https://hoppscotch.io)                                                 | ⭐⭐⭐⭐☆  |
+| **Bruno**          | Fast, Git-friendly API client with offline-first approach and declarative testing         | [website](https://www.usebruno.com)                                              | ⭐⭐⭐⭐⭐  |
+| **Paw (RapidAPI)** | Native macOS API testing tool with code generation and team synchronization               | [website](https://paw.cloud)                                                     | ⭐⭐⭐⭐☆  |
+| **REST Client**    | VS Code extension for sending HTTP requests and viewing responses directly in editor      | [website](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) | ⭐⭐⭐⭐☆  |
+| **k6**             | Developer-centric load testing tool for testing API performance under stress              | [website](https://k6.io)                                                         | ⭐⭐⭐⭐⭐  |
