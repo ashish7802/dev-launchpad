@@ -6,9 +6,9 @@
 
 **The ultimate developer productivity toolkit. Scripts, templates, prompts, and curated tools—all in one place.**
 
-[![Stars](https://img.shields.io/github/stars/yourusername/dev-launchpad?style=for-the-badge&logo=github&color=yellow)](https://github.com/yourusername/dev-launchpad/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/dev-launchpad?style=for-the-badge&logo=github&color=blue)](https://github.com/yourusername/dev-launchpad/network)
-[![License](https://img.shields.io/github/license/yourusername/dev-launchpad?style=for-the-badge&color=green)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/ashish7802/dev-launchpad?style=for-the-badge&logo=github&color=yellow)](https://github.com/ashish7802/dev-launchpad/stargazers)
+[![Forks](https://img.shields.io/github/forks/ashish7802/dev-launchpad?style=for-the-badge&logo=github&color=blue)](https://github.com/ashish7802/dev-launchpad/network)
+[![License](https://img.shields.io/github/license/ashish7802/dev-launchpad?style=for-the-badge&color=green)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 
 [🚀 Quick Start](#quick-start) • [📁 Structure](#folder-structure) • [📖 Docs](docs/) • [🤝 Contribute](CONTRIBUTING.md)
@@ -107,7 +107,7 @@ dev-launchpad/
 
 ### Option 1: Clone and explore
 ```bash
-git clone https://github.com/yourusername/dev-launchpad.git
+git clone https://github.com/ashish7802/dev-launchpad.git
 cd dev-launchpad
 ```
 
@@ -190,7 +190,7 @@ MIT License — see [LICENSE](LICENSE) for details. Commercial use welcome.
 
 Made with ❤️ by the community
 
-**[⭐ Star this repo](https://github.com/yourusername/dev-launchpad)** if it saved you time.
+**[⭐ Star this repo](https://github.com/ashish7802/dev-launchpad)** if it saved you time.
 
 *Built by developers, for developers.*
 
