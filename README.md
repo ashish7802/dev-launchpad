@@ -1,3 +1,7 @@
+<!-- dev-launchpad/README.md -->
+
+<div align="center">
+
 # 🚀 Dev Launchpad
 
 **The ultimate developer productivity toolkit. Scripts, templates, prompts, and curated tools—all in one place.**
@@ -7,7 +11,9 @@
 [![License](https://img.shields.io/github/license/yourusername/dev-launchpad?style=for-the-badge&color=green)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 
-[🚀 Quick Start](#-quick-start) • [📁 Structure](#-folder-structure) • [📖 Docs](docs/) • [🤝 Contribute](CONTRIBUTING.md)
+[🚀 Quick Start](#quick-start) • [📁 Structure](#folder-structure) • [📖 Docs](docs/) • [🤝 Contribute](CONTRIBUTING.md)
+
+</div>
 
 ---
 
@@ -43,7 +49,7 @@ Review checklists used by teams at scale. AI prompts refined through thousands o
 ### Community-driven
 This isn't a personal dotfiles repo. It's a **living resource** maintained by developers who actually use these tools daily.
 
-> *"I used to spend 2 hours setting up a new FastAPI project. Now it's 30 seconds and I'm writing actual business logic."*
+> *"I used to spend 2 hours setting up a new FastAPI project. Now it's 30 seconds and I'm writing actual business logic."*  
 > — Early contributor
 
 ---
