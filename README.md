@@ -188,7 +188,7 @@ MIT License — see [LICENSE](LICENSE) for details. Commercial use welcome.
 
 <div align="center">
 
-Made with ❤️ by the community
+Made with ❤️ by the Ashish Yadav 
 
 **[⭐ Star this repo](https://github.com/ashish7802/dev-launchpad)** if it saved you time.
 
