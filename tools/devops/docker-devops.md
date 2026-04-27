@@ -1,4 +1,4 @@
-# 🐳 Topic 6: Docker & DevOps Tools — Complete Developer Reference
+# Docker & DevOps Tools — Complete Developer Reference
 
 > 350+ real, verified tools across 15 categories
 
