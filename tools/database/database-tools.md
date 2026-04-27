@@ -1,4 +1,4 @@
-# 🗄️ Topic 5: Database Tools — Complete Developer Reference
+#  Database Tools — Complete Developer Reference
 
 > 300+ real, verified database tools across 13 categories
 
