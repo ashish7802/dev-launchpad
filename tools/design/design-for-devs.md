@@ -1,4 +1,4 @@
-# 🎨 Topic 9: Design for Devs — Complete Developer Reference
+#  Design for Devs — Complete Developer Reference
 
 > 500+ real, verified design tools across 18 categories
 
