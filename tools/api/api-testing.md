@@ -1,4 +1,4 @@
-# 🔌 Topic 4: API Testing — Complete Developer Reference
+#  API Testing — Complete Developer Reference
 
 > 300+ real, verified API testing tools across 15 categories
 
